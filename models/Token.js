@@ -21,7 +21,7 @@ let token = new Schema({
         type: Number
     },
     logo: {
-        type: Number
+        type: String
     }
 });
 mongoose.models = {};
