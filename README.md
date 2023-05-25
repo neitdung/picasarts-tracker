@@ -11,4 +11,5 @@ When new collection create or import, new process will be created to tracking NF
 - Copy file ```config.json``` and ```abis``` folder
 - ```npm install```
 - ```npm start```
+
 More documents: [picasarts-docs](https://github.com/neitdung/picasarts-docs)
